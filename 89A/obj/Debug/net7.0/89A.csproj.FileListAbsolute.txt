@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\bin\Debug\net7.0\89A.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\bin\Debug\net7.0\89A.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\bin\Debug\net7.0\89A.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\bin\Debug\net7.0\89A.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\bin\Debug\net7.0\89A.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\89A.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\89A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\89A.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\89A.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\89A.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\89A.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\refint\89A.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\89A.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\89A.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\89A\obj\Debug\net7.0\ref\89A.dll

@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\bin\Debug\net7.0\chastot.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\bin\Debug\net7.0\chastot.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\bin\Debug\net7.0\chastot.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\bin\Debug\net7.0\chastot.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\bin\Debug\net7.0\chastot.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\chastot.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\chastot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\chastot.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\chastot.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\chastot.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\chastot.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\refint\chastot.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\chastot.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\chastot.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 9.12\introductionC9.12\chastot\obj\Debug\net7.0\ref\chastot.dll
